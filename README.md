@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
@@ -18,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->

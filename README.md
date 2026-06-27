@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->

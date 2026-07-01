@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adiithi0510-alt/leetcode/tree/master/0001-two-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adiithi0510-alt/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adiithi0510-alt/leetcode/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |

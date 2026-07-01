@@ -8,6 +8,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adiithi0510-alt/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -57,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
@@ -71,4 +73,20 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

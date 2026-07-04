@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adiithi0510-alt/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

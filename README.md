@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adiithi0510-alt/leetcode/tree/master/0001-two-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/adiithi0510-alt/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/adiithi0510-alt/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adiithi0510-alt/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/adiithi0510-alt/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/adiithi0510-alt/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adiithi0510-alt/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adiithi0510-alt/leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |

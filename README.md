@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

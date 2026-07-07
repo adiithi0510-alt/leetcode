@@ -47,6 +47,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |

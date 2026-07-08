@@ -61,6 +61,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -85,6 +86,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adiithi0510-alt/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adiithi0510-alt/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
@@ -147,10 +150,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,4 +164,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

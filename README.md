@@ -31,6 +31,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adiithi0510-alt/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adiithi0510-alt/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adiithi0510-alt/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/adiithi0510-alt/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

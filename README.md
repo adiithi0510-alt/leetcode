@@ -51,6 +51,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adiithi0510-alt/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/adiithi0510-alt/leetcode/tree/master/0067-add-binary) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/adiithi0510-alt/leetcode/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adiithi0510-alt/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -98,6 +100,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adiithi0510-alt/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adiithi0510-alt/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -181,4 +184,9 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adiithi0510-alt/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/adiithi0510-alt/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
